@@ -823,6 +823,11 @@ var imgsrcObj =
         8,
         "Optical Illusion IQ Test: Use Your Razor-Sharp Observation Skills To Spot A Snake In 8 Seconds!?",
         "https://www.jagranjosh.com/general-knowledge/optical-illusion-iq-test-spot-the-snake-1713336250-1"
+    ],
+    "image161.png":[
+        8,
+        "find out at least ten difference",
+        "./dwnload/tiger_man_Japan.htm#http://www.cnarts.net/cweb%5Cnews/read.asp?id=424483&kind=%25"
     ]
 
 }
