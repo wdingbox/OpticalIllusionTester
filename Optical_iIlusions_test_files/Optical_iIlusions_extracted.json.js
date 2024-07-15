@@ -828,6 +828,11 @@ var imgsrcObj =
         8,
         "find out at least ten difference",
         "./dwnload/tiger_man_Japan.htm#http://www.cnarts.net/cweb%5Cnews/read.asp?id=424483&kind=%25"
+    ],
+    "image162.png":[
+        10,
+        "Brain Teaser IQ Test: Only 1 In 10 Can Match The Key Shape Correctly In 8 Seconds!",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-match-the-key-shape-1720891952-1"
     ]
 
 }
