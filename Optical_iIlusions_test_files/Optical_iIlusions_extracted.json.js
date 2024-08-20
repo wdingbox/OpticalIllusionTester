@@ -833,6 +833,11 @@ var imgsrcObj =
         10,
         "Brain Teaser IQ Test: Only 1 In 10 Can Match The Key Shape Correctly In 8 Seconds!",
         "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-match-the-key-shape-1720891952-1"
+    ],
+    "image163.png":[
+        6,
+        "Visual Skill Test: Find the Different Lion in 6 Seconds ",
+        "https://www.jagranjosh.com/general-knowledge/visual-skill-test-find-the-different-lion-in-the-picture-in-6-seconds-1723709498-1"
     ]
 
 }
