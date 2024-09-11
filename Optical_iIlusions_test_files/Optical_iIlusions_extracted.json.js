@@ -838,6 +838,11 @@ var imgsrcObj =
         6,
         "Visual Skill Test: Find the Different Lion in 6 Seconds ",
         "https://www.jagranjosh.com/general-knowledge/visual-skill-test-find-the-different-lion-in-the-picture-in-6-seconds-1723709498-1"
+    ],
+    "image164.png":[
+        5,
+        "How many circles can you see?",
+        "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-how-many-circles-are-there-1726049718-1"
     ]
 
 }
