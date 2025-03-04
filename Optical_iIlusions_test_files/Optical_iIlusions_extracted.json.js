@@ -782,7 +782,7 @@ var imgsrcObj =
     ],
     "image153.png":[
         90,
-        "Find similarities (Left: detail of drawing of Caterina Vilioni’s tombstone; right: Liu Guandao (劉貫道), Kublai Khan on the Hunt, 1280, paint on silk)",
+        "Find similarities (Left: detail of drawing of Caterina Vilioni’s tombstone in 1342; right: Liu Guandao (劉貫道), Kublai Khan on the Hunt, 1280, paint on silk)",
         "https://www.khanacademy.org/humanities/art-asia/imperial-china/yuan-dynasty/a/caterina-vilionis-tomb-in-yangzhou"
 
     ],
