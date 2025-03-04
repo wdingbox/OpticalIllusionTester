@@ -593,7 +593,7 @@ var imgsrcObj =
     ],
     "image116.png":[
         60,
-        "Find OBC in picture!",
+        "Find OBP (Oracle Bone Pictogram) in picture!",
         "./?Ya3_or_Cross"
     ],
     "image117.png":[

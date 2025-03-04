@@ -29,6 +29,9 @@
     .answerlink{
         background-color: lightgray;
     }
+    .hili_item{
+        background-color: red;
+    }
 </style>
 
 <script src="./Optical_iIlusions_test_files/jquery.js"></script>
@@ -71,6 +74,10 @@
             $(".optimg_Start").removeClass("optimg_Start")
             $(this).toggleClass("optimg_Start")
             $(this)[0].scrollIntoView()
+
+            $(".hili_item").removeClass("hili_item")
+            $(this).parentsUntil("tbody").addClass("hili_item")
+
 
             var timelen = $(this).parentsUntil("tr").prev().attr("timelen")
             $(this).parentsUntil("tr").prev().text(timelen)
