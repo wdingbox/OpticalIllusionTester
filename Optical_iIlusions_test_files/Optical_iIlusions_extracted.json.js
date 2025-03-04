@@ -663,12 +663,12 @@ var imgsrcObj =
     ],
     "image130.png":[
         60,
-        "Find OBC",
+        "Find OBI Pictograms.",
         ""
     ],
     "image131.png":[
         60,
-        "Find OBC",
+        "Find OBI Pictograms.",
         ""
     ],
     "image132.png":[
