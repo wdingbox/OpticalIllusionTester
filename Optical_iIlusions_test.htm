@@ -98,7 +98,8 @@
         $(".answerlink").on("click",function(){
             var shrf = $(this).attr("href")
             if(shrf.indexOf("hhtp")!=0){
-                alert(shrf)
+                alert(shrf);
+                return false;
             }
         })
 
