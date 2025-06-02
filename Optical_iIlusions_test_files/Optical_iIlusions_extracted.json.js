@@ -853,7 +853,7 @@ var imgsrcObj =
     "image166.png":[
         160,
         "Find 5 more personal figures in the photo.",
-        "Hint: the edges of blue area with 5 personal images"
+        "Hint: 5 personal images on blue area of the stage background."
     ],
     
 
