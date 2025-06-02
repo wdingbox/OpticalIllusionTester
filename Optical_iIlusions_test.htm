@@ -43,7 +43,7 @@
     $(() => {
         const DELIMER = "~~~"
         var stb = "<table border='1'><thead><tr><td>#</td><td>timer<br>(s)</td><td>Img</td><td>Descriptions</td></tr></thead><tbody>"
-        var idx = 0
+        var idx = -1
         var imgar = Object.keys(imgsrcObj)
         for (let [id, ary] of Object.entries(imgsrcObj)) {
             var src = "Optical_iIlusions_imgs/" + id
@@ -94,6 +94,12 @@
                 }
             }, 1000)
 
+        })
+        $(".answerlink").on("click",function(){
+            var shrf = $(this).attr("href")
+            if(shrf.indexOf("hhtp")!=0){
+                alert(shrf)
+            }
         })
 
         $(".hiliable").on("click",function(){

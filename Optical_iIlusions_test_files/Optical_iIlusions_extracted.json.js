@@ -843,6 +843,18 @@ var imgsrcObj =
         5,
         "How many circles can you see?",
         "https://www.jagranjosh.com/general-knowledge/brain-teaser-iq-test-how-many-circles-are-there-1726049718-1"
-    ]
+    ],
+    "image165.png":[
+        5,
+        "The Necker Cube",
+        "https://en.wikipedia.org/wiki/Necker_cube"
+    ],
+
+    "image166.png":[
+        160,
+        "Find 5 more personal figures in the photo.",
+        "Hint: the edges of blue area with 5 personal images"
+    ],
+    
 
 }
